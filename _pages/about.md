@@ -19,7 +19,8 @@ selected_papers: true # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
-I am a Master’s student in the School of Mathematics and Computing (Computational Science and Engineering) at Yonsei University advised by Prof. Jung-Il Choi.
+I am a Master’s student in the School of Mathematics and Computing (Computational Science and Engineering) at Yonsei University advised by [Prof. Jung-Il Choi](https://www.mpmc.yonsei.ac.kr/professor).
+My research interest lies in creating machine learning models that can be applied in real-world settings, with a particular focus on analyzing <b>spatio-temporal data.
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
 
