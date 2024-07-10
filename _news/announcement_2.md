@@ -6,7 +6,7 @@ inline: true
 related_posts: false
 ---
 
-I’ll be going to Vienna to present my paper at the 2024 ICML GRaM Workshop.
+I’ll be going to Vienna to present my paper at the 2024 ICML GRaM Workshop. This will be my first international conference, and I look forward to engaging with many researchers!
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 
