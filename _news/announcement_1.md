@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement.
+I’ll be going to Vienna to present my paper at the 2024 ICML GRaM Workshop.
