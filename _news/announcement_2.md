@@ -1,12 +1,12 @@
 ---
 layout: post
-title: A long announcement with details
+# title: A long announcement with details
 date: 2015-11-07 16:11:00-0400
 inline: false
 related_posts: false
 ---
 
-I’m excited to announce that I started my PhD project at Saarland University in Germany in July 2024.
+I’ll be going to Vienna to present my paper at the 2024 ICML GRaM Workshop.
 
 <!-- Announcements and news can be much longer than just quick inline posts. In fact, they can have all the features available for the standard blog posts. See below.
 

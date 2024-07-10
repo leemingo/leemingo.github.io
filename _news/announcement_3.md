@@ -5,4 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A simple inline announcement with Markdown emoji! :sparkles: :smile:
+I’m excited to announce that I started my PhD project at Saarland University in Germany in July 2024!
