@@ -9,7 +9,8 @@ profile:
   image: profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>mhlee7227[at]gmail.com</p>
+    <p>minho.lee[at]uni-saarland.de</p>
+  #   <p>mhlee7227[at]gmail.com</p>
   #   <p>123 your address street</p>
   #   <p>Your City, State 12345</p>
 
