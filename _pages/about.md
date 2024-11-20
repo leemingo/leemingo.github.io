@@ -25,7 +25,7 @@ I am a Ph.D. student at Saarland University's [Institute of Preventive Medicine 
 My research interest lies in creating machine learning models that can be applied in real-world settings, with a particular focus on analyzing <b>spatio-temporal data.
 Through this focus, my ultimate goal is to apply these methodologies extensively in the field of sports analytics.
 
-Prior to this, I was a Master’s student in the School of Mathematics and Computing (Computational Science and Engineering) at Yonsei University advised by [Prof. Jung-Il Choi](https://www.mpmc.yonsei.ac.kr/professor). I also achieved a double major in Bachelor of Business Administration and Big Data Science (Data Analytics) at Sogang University, and during this period, I had the opportunity to work in Research & Innovation team at SAP Labs Korea.
+Prior to this, I was a Master’s student in the School of Mathematics and Computing (Computational Science and Engineering) at Yonsei University advised by [Prof. Jung-Il Choi](https://www.mpmc.yonsei.ac.kr/people/professor). I also achieved a double major in Bachelor of Business Administration and Big Data Science (Data Analytics) at Sogang University, and during this period, I had the opportunity to work in Research & Innovation team at SAP Labs Korea.
 
 
 <!-- Put your address / P.O. box / other info right below your picture. You can also disable any of these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
