@@ -6,7 +6,7 @@ permalink: /
 
 profile:
   align: right
-  image: profile.jpeg
+  image: casual_profile.jpeg
   image_circular: false # crops the image to make it circular
   more_info: >
     <p>minho.lee[at]uni-saarland.de</p>
